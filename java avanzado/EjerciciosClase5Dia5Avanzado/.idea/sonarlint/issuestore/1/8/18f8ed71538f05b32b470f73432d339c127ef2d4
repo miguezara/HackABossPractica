@@ -1,0 +1,9 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ÁÏÌ×8úæÓöâ1
+G	java:S106"+Replace this use of System.out by a logger.(…©ÖÊ8ûæÓöâ1
+L	java:S106"+Replace this use of System.out by a logger.(”å¿ÿÿÿÿÿ8ûæÓöâ1
+G	java:S106&"+Replace this use of System.out by a logger.(¹¦àÚ8ıæÓöâ1
+L	java:S106,"+Replace this use of System.out by a logger.(ÁàÁÌşÿÿÿÿ8şæÓöâ1
+G
+java:S3457-"%String contains no format specifiers.(–Ñœèÿÿÿÿÿ8ÿæÓöâ1
+L	java:S106-"+Replace this use of System.out by a logger.(–Ñœèÿÿÿÿÿ8ÿæÓöâ1

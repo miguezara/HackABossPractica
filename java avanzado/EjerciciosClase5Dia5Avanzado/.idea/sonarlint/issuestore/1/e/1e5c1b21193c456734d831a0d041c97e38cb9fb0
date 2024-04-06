@@ -1,0 +1,8 @@
+
+V
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(•¡Ê°
+E	java:S106"+Replace this use of System.out by a logger.(Õî¸Æÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÐÛâï
+E	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

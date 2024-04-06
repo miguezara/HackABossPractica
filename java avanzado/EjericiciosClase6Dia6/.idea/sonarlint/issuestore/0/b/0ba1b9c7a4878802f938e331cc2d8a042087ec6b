@@ -1,0 +1,12 @@
+
+]	java:S125
+"<This block of commented-out lines of code should be removed.(ö‚ı¯ÿÿÿÿÿ8â‘¿›ã1
+X	java:S125"<This block of commented-out lines of code should be removed.(×Ğè8â‘¿›ã1
+X	java:S125"<This block of commented-out lines of code should be removed.(œÑİ€8ÄÅĞ›ã1
+^
+java:S6353""<Use concise character class syntax '\\d' instead of '[0-9]'.(€® §úÿÿÿÿ8ÇåÙ›ã1
+L	java:S106%"+Replace this use of System.out by a logger.(éá€Çûÿÿÿÿ8‡›Ò›ã1
+U
+java:S1128"3Remove this unused import 'java.util.StringJoiner'.(ëûÁ‹úÿÿÿÿ8‚ÙÑ›ã1
+X
+java:S1128"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ8‚ÙÑ›ã1

@@ -1,0 +1,13 @@
+
+@	java:S106"+Replace this use of System.out by a logger.(òÖ–Ù
+E	java:S106"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(úÉ½Ëüÿÿÿÿ
+V
+java:S1612 "@Replace this lambda with method reference 'Number::doubleValue'.(õ±ÃÜ
+E	java:S106#"+Replace this use of System.out by a logger.(å Á•þÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+N
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Íž
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

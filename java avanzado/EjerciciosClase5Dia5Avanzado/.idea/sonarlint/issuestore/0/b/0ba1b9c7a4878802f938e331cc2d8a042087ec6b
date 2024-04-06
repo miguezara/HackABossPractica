@@ -1,0 +1,12 @@
+
+X	java:S125
+"<This block of commented-out lines of code should be removed.(Ìşö²8‡­ôâ1
+\
+java:S1612#"?Replace this lambda with method reference 'Persona::getNombre'.(Í›¥Á8š‘ôâ1
+G	java:S106%"+Replace this use of System.out by a logger.(à¢²8Œ­ôâ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8›‘ôâ1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8œ‘ôâ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8œ‘ôâ1
